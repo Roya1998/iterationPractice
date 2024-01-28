@@ -1,6 +1,6 @@
 // //Task: Javascript Control Flow and Iteration Practice
 
-// // Part 1 - Using a switch statement
+//Part 1 - Using a switch statement
 
 const dayOfWeek = "Friday";
 
