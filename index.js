@@ -28,7 +28,6 @@ switch (dayOfWeek) {
     break;
   default:
     console.log("invalid day of the week");
-    break;
 }
 
 // Part 2 - Iterating with a for loop
